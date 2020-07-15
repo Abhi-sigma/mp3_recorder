@@ -3,7 +3,7 @@
 #Inspiration
 There are several solutions to the recording mp3 in javascript.This project is derived from
 [mp3lameencoder](https://github.com/higuma/mp3-lame-encoder-js) which is itself inspired from [wavrecorder]
-(https://github.com/mattdiamond/Recorderjs).However,sometimes the beginners dont want to understand the process behind it
+(https://github.com/mattdiamond/Recorderjs) .However,sometimes the beginners don't want to understand the process behind it
 and just implement it.This is for the those lazy developers like me.
 
 #Some things to consider though even if you are lazy
