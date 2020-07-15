@@ -10,6 +10,6 @@ want to understand the process behind it and just implement it.This is for the t
 
 * [webaudiopolicy](https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio)
 
-* You would have to press the audio context button first.If you dont it wont work,so go figure out for your use case.
+* You would have to press the audio context button first.If you dont, it wont work,so go figure out for your use case.
 
 * Once,you get the satisafaction of recording it in mp3,please go ahead and research how it was done.
